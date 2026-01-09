@@ -117,7 +117,7 @@ git clone  https://github.com/Mohamed-Asif-1000/Shoppora---Multi-Role-E-Commerce
 
 ```bash
 
-cd cd Shoppora-Multi-Role-E-Commerce-Marketplace
+cd  Shoppora-Multi-Role-E-Commerce-Marketplace
 
 ```
 
@@ -171,7 +171,7 @@ npm run dev
 
 You can view the live version of the website here:  
 
-👉 []()
+👉 [https://shoppora-multi-role-e-commerce-mark.vercel.app/](https://shoppora-multi-role-e-commerce-mark.vercel.app/)
 
 ---
 
@@ -187,7 +187,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 - **Lucide Icons** for the professional iconography.
 - **Framer Motion** for making UI interactions smooth and delightful.
-- Built with passion for fitness and high-performance frontend development
 - **Unsplash/Pixabay** – Contributors for providing high-quality, royalty-free commercial product photography.
 - **Gemini (Google AI)** – For generating high-quality Images
 
